@@ -1,6 +1,7 @@
 # Relayer
 ## Note
-Even though I have lost interest in this project, I will fix any bugs reported!
+Even though I have lost interest in this project, I ~~will~~ might fix any bugs reported!
+Also I'm sorry if the code looks ugly!
 
 ## About
 A Discord Bot for chatting with other servers.
